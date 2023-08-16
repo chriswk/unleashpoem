@@ -1,0 +1,1 @@
+DROP VIEW features_view;

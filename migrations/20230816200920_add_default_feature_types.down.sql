@@ -1,0 +1,1 @@
+DELETE FROM feature_types WHERE built_in AND updated_at IS NULL;

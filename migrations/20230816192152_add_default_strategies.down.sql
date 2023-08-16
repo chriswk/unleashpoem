@@ -1,0 +1,1 @@
+DELETE FROM strategies WHERE name IN ('flexibleRollout', 'default', 'applicationHostname', 'remoteAddress', 'userWithId');

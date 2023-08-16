@@ -1,0 +1,1 @@
+DROP TABLE client_metrics_env_variants;

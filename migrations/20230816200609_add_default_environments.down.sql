@@ -1,0 +1,1 @@
+DELETE FROM environments WHERE protected = true;
